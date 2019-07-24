@@ -1,0 +1,6 @@
+Project requirement:
+1. Screen
+2. Ardiuno
+3. Software
+4.saish
+5.omkar
