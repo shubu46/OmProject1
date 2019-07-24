@@ -1,0 +1,4 @@
+Project requirement:
+1. Screen
+2. Ardiuno
+3. Software
